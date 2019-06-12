@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="splash">Splash Screen Activity</string>
+</resources>
